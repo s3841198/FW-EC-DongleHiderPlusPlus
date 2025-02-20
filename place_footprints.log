@@ -1,0 +1,270 @@
+02-20 23:25:18 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 647:Plugin executed on: 'win32'
+02-20 23:25:18 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 648:Plugin executed with python version: '3.11.5 (main, Dec 24 2024, 05:27:06) [MSC v.1942 64 bit (AMD64)]'
+02-20 23:25:18 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 649:KiCad build version: 8.0.8
+02-20 23:25:18 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 650:Plugin version: 3.0.0
+02-20 23:25:18 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 651:Frame repr: <wx._core.Frame object at 0x0000022F73B87A30>
+02-20 23:26:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:29 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:29 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:29 svg2mod 304:  Inlining 15 segments...
+02-20 23:26:29 svg2mod 339:  Writing Text with 494 points
+02-20 23:26:29 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:29 svg2mod 339:  Writing Text with 14 points
+02-20 23:26:29 svg2mod 339:  Writing Text with 14 points
+02-20 23:26:29 svg2mod 339:  Writing Text with 12 points
+02-20 23:26:29 svg2mod 339:  Writing Text with 10 points
+02-20 23:26:29 svg2mod 339:  Writing Text with 10 points
+02-20 23:26:29 svg2mod 339:  Writing Text with 10 points
+02-20 23:26:30 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:30 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:30 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:30 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:30 svg2mod 304:  Inlining 2 segments...
+02-20 23:26:30 svg2mod 339:  Writing Text with 89 points
+02-20 23:26:30 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:31 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:31 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:31 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:31 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:31 svg2mod 304:  Inlining 1 segments...
+02-20 23:26:31 svg2mod 339:  Writing Text with 34 points
+02-20 23:26:31 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:31 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:31 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:31 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:31 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:31 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:31 svg2mod 304:  Inlining 1 segments...
+02-20 23:26:31 svg2mod 339:  Writing Text with 21 points
+02-20 23:26:32 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:32 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:32 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:32 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:32 svg2mod 304:  Inlining 2 segments...
+02-20 23:26:32 svg2mod 339:  Writing Text with 77 points
+02-20 23:26:32 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:32 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:32 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:32 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:32 svg2mod 304:  Inlining 2 segments...
+02-20 23:26:32 svg2mod 339:  Writing Text with 77 points
+02-20 23:26:33 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:33 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:33 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:33 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:33 svg2mod 304:  Inlining 3 segments...
+02-20 23:26:33 svg2mod 339:  Writing Text with 101 points
+02-20 23:26:33 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:33 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:33 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:33 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:33 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:33 svg2mod 304:  Inlining 4 segments...
+02-20 23:26:33 svg2mod 339:  Writing Text with 136 points
+02-20 23:26:33 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:33 svg2mod 339:  Writing Text with 17 points
+02-20 23:26:33 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:33 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:33 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:33 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:33 svg2mod 304:  Inlining 6 segments...
+02-20 23:26:33 svg2mod 339:  Writing Text with 198 points
+02-20 23:26:33 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:33 svg2mod 339:  Writing Text with 17 points
+02-20 23:26:33 svg2mod 339:  Writing Text with 12 points
+02-20 23:26:33 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:34 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:34 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:34 svg2mod 304:  Inlining 8 segments...
+02-20 23:26:34 svg2mod 339:  Writing Text with 256 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 17 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 12 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 10 points
+02-20 23:26:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:34 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:34 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:34 svg2mod 304:  Inlining 8 segments...
+02-20 23:26:34 svg2mod 339:  Writing Text with 256 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 17 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 12 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 10 points
+02-20 23:26:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:34 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:34 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:34 svg2mod 304:  Inlining 9 segments...
+02-20 23:26:34 svg2mod 339:  Writing Text with 300 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 17 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 12 points
+02-20 23:26:34 svg2mod 339:  Writing Text with 10 points
+02-20 23:26:35 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:35 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:35 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:35 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:35 svg2mod 304:  Inlining 8 segments...
+02-20 23:26:35 svg2mod 339:  Writing Text with 256 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 17 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 12 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 10 points
+02-20 23:26:35 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:35 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:35 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:35 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:35 svg2mod 304:  Inlining 11 segments...
+02-20 23:26:35 svg2mod 339:  Writing Text with 303 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 17 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 12 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 10 points
+02-20 23:26:35 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:35 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:26:35 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:26:35 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:26:35 svg2mod 304:  Inlining 14 segments...
+02-20 23:26:35 svg2mod 339:  Writing Text with 385 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 15 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 17 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 14 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 12 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 10 points
+02-20 23:26:35 svg2mod 339:  Writing Text with 10 points
+02-20 23:27:13 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:27:13 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:27:13 svg2mod 304:  Inlining 14 segments...
+02-20 23:27:13 svg2mod 339:  Writing Text with 385 points
+02-20 23:27:13 svg2mod 339:  Writing Text with 15 points
+02-20 23:27:13 svg2mod 339:  Writing Text with 17 points
+02-20 23:27:13 svg2mod 339:  Writing Text with 14 points
+02-20 23:27:13 svg2mod 339:  Writing Text with 12 points
+02-20 23:27:13 svg2mod 339:  Writing Text with 10 points
+02-20 23:27:13 svg2mod 339:  Writing Text with 10 points
+02-20 23:28:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:28:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:28:23 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:28:23 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:28:23 svg2mod 304:  Inlining 14 segments...
+02-20 23:28:23 svg2mod 339:  Writing Text with 385 points
+02-20 23:28:23 svg2mod 339:  Writing Text with 15 points
+02-20 23:28:23 svg2mod 339:  Writing Text with 17 points
+02-20 23:28:23 svg2mod 339:  Writing Text with 14 points
+02-20 23:28:23 svg2mod 339:  Writing Text with 12 points
+02-20 23:28:23 svg2mod 339:  Writing Text with 10 points
+02-20 23:28:23 svg2mod 339:  Writing Text with 10 points
+02-20 23:28:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:28:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:28:24 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:28:24 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:28:24 svg2mod 304:  Inlining 14 segments...
+02-20 23:28:24 svg2mod 339:  Writing Text with 385 points
+02-20 23:28:24 svg2mod 339:  Writing Text with 15 points
+02-20 23:28:24 svg2mod 339:  Writing Text with 17 points
+02-20 23:28:24 svg2mod 339:  Writing Text with 14 points
+02-20 23:28:24 svg2mod 339:  Writing Text with 12 points
+02-20 23:28:24 svg2mod 339:  Writing Text with 10 points
+02-20 23:28:24 svg2mod 339:  Writing Text with 10 points
+02-20 23:28:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:28:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:28:24 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:28:24 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:28:25 svg2mod 304:  Inlining 16 segments...
+02-20 23:28:25 svg2mod 339:  Writing Text with 415 points
+02-20 23:28:25 svg2mod 339:  Writing Text with 15 points
+02-20 23:28:25 svg2mod 339:  Writing Text with 17 points
+02-20 23:28:25 svg2mod 339:  Writing Text with 14 points
+02-20 23:28:25 svg2mod 339:  Writing Text with 12 points
+02-20 23:28:25 svg2mod 339:  Writing Text with 10 points
+02-20 23:28:25 svg2mod 339:  Writing Text with 10 points
+02-20 23:28:27 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:28:27 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+02-20 23:28:27 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:28:27 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:28:27 svg2mod 304:  Inlining 16 segments...
+02-20 23:28:27 svg2mod 339:  Writing Text with 415 points
+02-20 23:28:27 svg2mod 339:  Writing Text with 15 points
+02-20 23:28:27 svg2mod 339:  Writing Text with 17 points
+02-20 23:28:27 svg2mod 339:  Writing Text with 14 points
+02-20 23:28:27 svg2mod 339:  Writing Text with 12 points
+02-20 23:28:27 svg2mod 339:  Writing Text with 10 points
+02-20 23:28:27 svg2mod 339:  Writing Text with 10 points
+02-20 23:28:28 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+02-20 23:28:28 svg2mod 263:  Detailed names: [F.SilkS]
+02-20 23:28:28 svg2mod 304:  Inlining 16 segments...
+02-20 23:28:28 svg2mod 339:  Writing Text with 415 points
+02-20 23:28:28 svg2mod 339:  Writing Text with 15 points
+02-20 23:28:28 svg2mod 339:  Writing Text with 17 points
+02-20 23:28:28 svg2mod 339:  Writing Text with 14 points
+02-20 23:28:28 svg2mod 339:  Writing Text with 12 points
+02-20 23:28:28 svg2mod 339:  Writing Text with 10 points
+02-20 23:28:28 svg2mod 339:  Writing Text with 10 points
+02-20 23:55:59 com_gitlab_dennevi_Board2Pdf.persistence 83:templates={'Black And White TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'User.Eco1,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Cu', 'frame': 'F.Fab', 'popups': 'Front Layer', 'layers': {'F.Cu': '#F0F0F0', 'F.Paste': '#C4C4C4', 'Edge.Cuts': '#575757', 'User.Eco1': '#000000', 'F.Silkscreen': '#000000', 'F.Fab': '#000000'}, 'layers_transparency': {'User.Eco1': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Cu': '0'}, 'layers_negative': {'User.Eco1': 'false', 'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'F.Paste': 'false', 'F.Cu': 'false', 'F.Fab': 'false'}, 'layers_footprint_values': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}}, 'Black And White BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Cu', 'frame': 'B.Fab', 'popups': 'Back Layer', 'layers': {'B.Cu': '#F0F0F0', 'B.Paste': '#C4C4C4', 'Edge.Cuts': '#575757', 'B.Fab': '#000000', 'B.Silkscreen': '#000000'}, 'layers_transparency': {'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Fab': 'false', 'Edge.Cuts': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Cu': 'false'}, 'layers_footprint_values': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}}, 'Colored BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Cu', 'frame': 'B.Fab', 'popups': 'Back Layer', 'layers': {'F.Fab': '#000080', 'User.Eco1': '#000080', 'Edge.Cuts': '#FF8000', 'B.Silkscreen': '#626262', 'B.Paste': '#FF8A8A', 'B.Cu': '#B3FFB3', 'B.Fab': '#000080'}, 'layers_transparency': {'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Fab': 'false', 'B.Cu': 'false', 'B.Paste': 'false', 'B.Silkscreen': 'false', 'Edge.Cuts': 'false'}, 'layers_footprint_values': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}}, 'Colored TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'User.Eco1,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Cu', 'frame': 'F.Fab', 'popups': 'Front Layer', 'layers': {'F.Cu': '#B3FFB3', 'F.Paste': '#FF8A8A', 'F.Silkscreen': '#626262', 'Edge.Cuts': '#FF8000', 'User.Eco1': '#000080', 'F.Fab': '#000080'}, 'layers_transparency': {'User.Eco1': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'User.Eco1': 'false', 'F.Fab': 'false', 'F.Silkscreen': 'false', 'F.Paste': 'false', 'F.Cu': 'false'}, 'layers_footprint_values': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}}, 'Light Colors PCB Fabrication TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,User.Comments,User.Drawings,Edge.Cuts,F.Silkscreen,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'Edge.Cuts': '#804000', 'F.Silkscreen': '#DDDDDD', 'B.Silkscreen': '#000000', 'F.Fab': '#808080', 'F.Mask': '#D0D0D0', 'User.Comments': '#00008A', 'User.Drawings': '#EFEFBA', 'F.Cu': '#EEEEEE', 'B.Cu': '#C6C6FF', 'In30.Cu': '#000000', 'Margin': '#830000', 'F.Paste': '#400000'}, 'layers_transparency': {'Margin': '0', 'User.Comments': '0', 'User.Drawings': '0', 'Edge.Cuts': '0', 'F.Silkscreen': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'B.Silkscreen': 'false', 'F.Fab': 'false', 'F.Mask': 'false', 'User.Comments': 'false', 'User.Drawings': 'false', 'F.Cu': 'false', 'B.Cu': 'false', 'In30.Cu': 'false', 'Margin': 'false', 'F.Paste': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'User.Comments': 'true', 'User.Drawings': 'true', 'Edge.Cuts': 'true', 'F.Silkscreen': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'User.Comments': 'true', 'User.Drawings': 'true', 'Edge.Cuts': 'true', 'F.Silkscreen': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}, 'Light Colors PCB Paste TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,F.Paste,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'Edge.Cuts': '#635547', 'F.Silkscreen': '#DDDDDD', 'B.Silkscreen': '#000000', 'F.Fab': '#808080', 'F.Mask': '#D0D0D0', 'User.Comments': '#00008A', 'User.Drawings': '#EFEFBA', 'F.Cu': '#EEEEEE', 'B.Cu': '#C6C6FF', 'In30.Cu': '#000000', 'Margin': '#830000', 'F.Paste': '#400000'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'F.Paste': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'B.Silkscreen': 'false', 'F.Fab': 'false', 'F.Mask': 'false', 'User.Comments': 'false', 'User.Drawings': 'false', 'F.Cu': 'false', 'B.Cu': 'false', 'In30.Cu': 'false', 'Margin': 'false', 'F.Paste': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}, 'Light Colors Placement BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Mask,B.Cu', 'frame': 'Margin', 'popups': 'Back Layer', 'layers': {'B.Courtyard': '#000000', 'Edge.Cuts': '#804000', 'User.Comments': '#0080FF', 'F.Fab': '#808080', 'F.Cu': '#EEEEEE', 'F.Paste': '#A8A8A8', 'F.Silkscreen': '#DDDD00', 'Margin': '#000000', 'F.Mask': '#C0C0C0', 'B.Cu': '#EEEEEE', 'B.Fab': '#222222', 'B.Silkscreen': '#CCCCAA', 'B.Paste': '#A8A8A8', 'B.Mask': '#C0C0C0'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Mask': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Courtyard': 'false', 'Edge.Cuts': 'false', 'User.Comments': 'false', 'F.Fab': 'false', 'F.Cu': 'false', 'F.Paste': 'false', 'F.Silkscreen': 'false', 'Margin': 'false', 'F.Mask': 'false', 'B.Cu': 'false', 'B.Fab': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Mask': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Mask': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Mask': 'true', 'B.Cu': 'true'}}, 'Light Colors Placement TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'B.Courtyard': '#000000', 'Edge.Cuts': '#804000', 'User.Comments': '#0080FF', 'F.Fab': '#222222', 'F.Cu': '#EEEEEE', 'F.Paste': '#A8A8A8', 'F.Silkscreen': '#CCCCAA', 'Margin': '#000000', 'F.Mask': '#C0C0C0', 'B.Cu': '#EEEEEE', 'B.Fab': '#808080', 'B.Silkscreen': '#000000', 'B.Paste': '#A8A8A8', 'B.Mask': '#C0C0C0'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'B.Courtyard': 'false', 'Edge.Cuts': 'false', 'User.Comments': 'false', 'F.Fab': 'false', 'F.Cu': 'false', 'F.Paste': 'false', 'F.Silkscreen': 'false', 'Margin': 'false', 'F.Mask': 'false', 'B.Cu': 'false', 'B.Fab': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Mask': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}}
+02-20 23:55:59 com_gitlab_dennevi_Board2Pdf.persistence 83:output_path=plots
+02-20 23:55:59 com_gitlab_dennevi_Board2Pdf.persistence 83:enabled_templates=['Black And White TOP', 'Black And White BOT']
+02-20 23:55:59 com_gitlab_dennevi_Board2Pdf.persistence 83:disabled_templates=['Colored BOT', 'Colored TOP', 'Light Colors PCB Fabrication TOP', 'Light Colors PCB Paste TOP', 'Light Colors Placement BOT', 'Light Colors Placement TOP']
+02-20 23:55:59 com_gitlab_dennevi_Board2Pdf.persistence 83:create_svg=False
+02-20 23:55:59 com_gitlab_dennevi_Board2Pdf.persistence 83:del_temp_files=True
+02-20 23:55:59 com_gitlab_dennevi_Board2Pdf.persistence 83:del_single_page_files=True
+02-20 23:55:59 com_gitlab_dennevi_Board2Pdf.persistence 83:assembly_file_extension=__Assembly
+02-20 23:55:59 com_gitlab_dennevi_Board2Pdf.persistence 83:page_info=Board2Pdf: ${template_name} - Page ${page_nr}/${total_pages}
+02-20 23:55:59 com_gitlab_dennevi_Board2Pdf.persistence 83:info_variable=4
+02-20 23:56:00 board2pdf 144:pymupdf not found, using pypdf
+02-21 00:12:01 com_gitlab_dennevi_Board2Pdf.persistence 83:templates={'Black And White TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'User.Eco1,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Cu', 'frame': 'F.Fab', 'popups': 'Front Layer', 'layers': {'F.Cu': '#F0F0F0', 'F.Paste': '#C4C4C4', 'Edge.Cuts': '#575757', 'User.Eco1': '#000000', 'F.Silkscreen': '#000000', 'F.Fab': '#000000'}, 'layers_transparency': {'User.Eco1': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Cu': '0'}, 'layers_negative': {'User.Eco1': 'false', 'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'F.Paste': 'false', 'F.Cu': 'false', 'F.Fab': 'false'}, 'layers_footprint_values': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}}, 'Black And White BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Cu', 'frame': 'B.Fab', 'popups': 'Back Layer', 'layers': {'B.Cu': '#F0F0F0', 'B.Paste': '#C4C4C4', 'Edge.Cuts': '#575757', 'B.Fab': '#000000', 'B.Silkscreen': '#000000'}, 'layers_transparency': {'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Fab': 'false', 'Edge.Cuts': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Cu': 'false'}, 'layers_footprint_values': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}}, 'Colored BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Cu', 'frame': 'B.Fab', 'popups': 'Back Layer', 'layers': {'F.Fab': '#000080', 'User.Eco1': '#000080', 'Edge.Cuts': '#FF8000', 'B.Silkscreen': '#626262', 'B.Paste': '#FF8A8A', 'B.Cu': '#B3FFB3', 'B.Fab': '#000080'}, 'layers_transparency': {'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Fab': 'false', 'B.Cu': 'false', 'B.Paste': 'false', 'B.Silkscreen': 'false', 'Edge.Cuts': 'false'}, 'layers_footprint_values': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}}, 'Colored TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'User.Eco1,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Cu', 'frame': 'F.Fab', 'popups': 'Front Layer', 'layers': {'F.Cu': '#B3FFB3', 'F.Paste': '#FF8A8A', 'F.Silkscreen': '#626262', 'Edge.Cuts': '#FF8000', 'User.Eco1': '#000080', 'F.Fab': '#000080'}, 'layers_transparency': {'User.Eco1': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'User.Eco1': 'false', 'F.Fab': 'false', 'F.Silkscreen': 'false', 'F.Paste': 'false', 'F.Cu': 'false'}, 'layers_footprint_values': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}}, 'Light Colors PCB Fabrication TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,User.Comments,User.Drawings,Edge.Cuts,F.Silkscreen,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'Edge.Cuts': '#804000', 'F.Silkscreen': '#DDDDDD', 'B.Silkscreen': '#000000', 'F.Fab': '#808080', 'F.Mask': '#D0D0D0', 'User.Comments': '#00008A', 'User.Drawings': '#EFEFBA', 'F.Cu': '#EEEEEE', 'B.Cu': '#C6C6FF', 'In30.Cu': '#000000', 'Margin': '#830000', 'F.Paste': '#400000'}, 'layers_transparency': {'Margin': '0', 'User.Comments': '0', 'User.Drawings': '0', 'Edge.Cuts': '0', 'F.Silkscreen': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'B.Silkscreen': 'false', 'F.Fab': 'false', 'F.Mask': 'false', 'User.Comments': 'false', 'User.Drawings': 'false', 'F.Cu': 'false', 'B.Cu': 'false', 'In30.Cu': 'false', 'Margin': 'false', 'F.Paste': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'User.Comments': 'true', 'User.Drawings': 'true', 'Edge.Cuts': 'true', 'F.Silkscreen': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'User.Comments': 'true', 'User.Drawings': 'true', 'Edge.Cuts': 'true', 'F.Silkscreen': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}, 'Light Colors PCB Paste TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,F.Paste,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'Edge.Cuts': '#635547', 'F.Silkscreen': '#DDDDDD', 'B.Silkscreen': '#000000', 'F.Fab': '#808080', 'F.Mask': '#D0D0D0', 'User.Comments': '#00008A', 'User.Drawings': '#EFEFBA', 'F.Cu': '#EEEEEE', 'B.Cu': '#C6C6FF', 'In30.Cu': '#000000', 'Margin': '#830000', 'F.Paste': '#400000'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'F.Paste': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'B.Silkscreen': 'false', 'F.Fab': 'false', 'F.Mask': 'false', 'User.Comments': 'false', 'User.Drawings': 'false', 'F.Cu': 'false', 'B.Cu': 'false', 'In30.Cu': 'false', 'Margin': 'false', 'F.Paste': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}, 'Light Colors Placement BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Mask,B.Cu', 'frame': 'Margin', 'popups': 'Back Layer', 'layers': {'B.Courtyard': '#000000', 'Edge.Cuts': '#804000', 'User.Comments': '#0080FF', 'F.Fab': '#808080', 'F.Cu': '#EEEEEE', 'F.Paste': '#A8A8A8', 'F.Silkscreen': '#DDDD00', 'Margin': '#000000', 'F.Mask': '#C0C0C0', 'B.Cu': '#EEEEEE', 'B.Fab': '#222222', 'B.Silkscreen': '#CCCCAA', 'B.Paste': '#A8A8A8', 'B.Mask': '#C0C0C0'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Mask': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Courtyard': 'false', 'Edge.Cuts': 'false', 'User.Comments': 'false', 'F.Fab': 'false', 'F.Cu': 'false', 'F.Paste': 'false', 'F.Silkscreen': 'false', 'Margin': 'false', 'F.Mask': 'false', 'B.Cu': 'false', 'B.Fab': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Mask': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Mask': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Mask': 'true', 'B.Cu': 'true'}}, 'Light Colors Placement TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'B.Courtyard': '#000000', 'Edge.Cuts': '#804000', 'User.Comments': '#0080FF', 'F.Fab': '#222222', 'F.Cu': '#EEEEEE', 'F.Paste': '#A8A8A8', 'F.Silkscreen': '#CCCCAA', 'Margin': '#000000', 'F.Mask': '#C0C0C0', 'B.Cu': '#EEEEEE', 'B.Fab': '#808080', 'B.Silkscreen': '#000000', 'B.Paste': '#A8A8A8', 'B.Mask': '#C0C0C0'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'B.Courtyard': 'false', 'Edge.Cuts': 'false', 'User.Comments': 'false', 'F.Fab': 'false', 'F.Cu': 'false', 'F.Paste': 'false', 'F.Silkscreen': 'false', 'Margin': 'false', 'F.Mask': 'false', 'B.Cu': 'false', 'B.Fab': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Mask': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}}
+02-21 00:12:01 com_gitlab_dennevi_Board2Pdf.persistence 83:output_path=plots
+02-21 00:12:01 com_gitlab_dennevi_Board2Pdf.persistence 83:enabled_templates=['Black And White TOP', 'Black And White BOT']
+02-21 00:12:01 com_gitlab_dennevi_Board2Pdf.persistence 83:disabled_templates=['Colored BOT', 'Colored TOP', 'Light Colors PCB Fabrication TOP', 'Light Colors PCB Paste TOP', 'Light Colors Placement BOT', 'Light Colors Placement TOP']
+02-21 00:12:01 com_gitlab_dennevi_Board2Pdf.persistence 83:create_svg=False
+02-21 00:12:01 com_gitlab_dennevi_Board2Pdf.persistence 83:del_temp_files=True
+02-21 00:12:01 com_gitlab_dennevi_Board2Pdf.persistence 83:del_single_page_files=True
+02-21 00:12:01 com_gitlab_dennevi_Board2Pdf.persistence 83:assembly_file_extension=__Assembly
+02-21 00:12:01 com_gitlab_dennevi_Board2Pdf.persistence 83:page_info=Board2Pdf: ${template_name} - Page ${page_nr}/${total_pages}
+02-21 00:12:01 com_gitlab_dennevi_Board2Pdf.persistence 83:info_variable=4
+02-21 00:12:01 board2pdf 144:pymupdf not found, using pypdf
+02-21 00:14:51 com_gitlab_dennevi_Board2Pdf.persistence 83:templates={'Black And White TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'User.Eco1,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Cu', 'frame': 'F.Fab', 'popups': 'Front Layer', 'layers': {'F.Cu': '#F0F0F0', 'F.Paste': '#C4C4C4', 'Edge.Cuts': '#575757', 'User.Eco1': '#000000', 'F.Silkscreen': '#000000', 'F.Fab': '#000000'}, 'layers_transparency': {'User.Eco1': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Cu': '0'}, 'layers_negative': {'User.Eco1': 'false', 'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'F.Paste': 'false', 'F.Cu': 'false', 'F.Fab': 'false'}, 'layers_footprint_values': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}}, 'Black And White BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Cu', 'frame': 'B.Fab', 'popups': 'Back Layer', 'layers': {'B.Cu': '#F0F0F0', 'B.Paste': '#C4C4C4', 'Edge.Cuts': '#575757', 'B.Fab': '#000000', 'B.Silkscreen': '#000000'}, 'layers_transparency': {'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Fab': 'false', 'Edge.Cuts': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Cu': 'false'}, 'layers_footprint_values': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}}, 'Colored BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Cu', 'frame': 'B.Fab', 'popups': 'Back Layer', 'layers': {'F.Fab': '#000080', 'User.Eco1': '#000080', 'Edge.Cuts': '#FF8000', 'B.Silkscreen': '#626262', 'B.Paste': '#FF8A8A', 'B.Cu': '#B3FFB3', 'B.Fab': '#000080'}, 'layers_transparency': {'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Fab': 'false', 'B.Cu': 'false', 'B.Paste': 'false', 'B.Silkscreen': 'false', 'Edge.Cuts': 'false'}, 'layers_footprint_values': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}}, 'Colored TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'User.Eco1,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Cu', 'frame': 'F.Fab', 'popups': 'Front Layer', 'layers': {'F.Cu': '#B3FFB3', 'F.Paste': '#FF8A8A', 'F.Silkscreen': '#626262', 'Edge.Cuts': '#FF8000', 'User.Eco1': '#000080', 'F.Fab': '#000080'}, 'layers_transparency': {'User.Eco1': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'User.Eco1': 'false', 'F.Fab': 'false', 'F.Silkscreen': 'false', 'F.Paste': 'false', 'F.Cu': 'false'}, 'layers_footprint_values': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}}, 'Light Colors PCB Fabrication TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,User.Comments,User.Drawings,Edge.Cuts,F.Silkscreen,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'Edge.Cuts': '#804000', 'F.Silkscreen': '#DDDDDD', 'B.Silkscreen': '#000000', 'F.Fab': '#808080', 'F.Mask': '#D0D0D0', 'User.Comments': '#00008A', 'User.Drawings': '#EFEFBA', 'F.Cu': '#EEEEEE', 'B.Cu': '#C6C6FF', 'In30.Cu': '#000000', 'Margin': '#830000', 'F.Paste': '#400000'}, 'layers_transparency': {'Margin': '0', 'User.Comments': '0', 'User.Drawings': '0', 'Edge.Cuts': '0', 'F.Silkscreen': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'B.Silkscreen': 'false', 'F.Fab': 'false', 'F.Mask': 'false', 'User.Comments': 'false', 'User.Drawings': 'false', 'F.Cu': 'false', 'B.Cu': 'false', 'In30.Cu': 'false', 'Margin': 'false', 'F.Paste': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'User.Comments': 'true', 'User.Drawings': 'true', 'Edge.Cuts': 'true', 'F.Silkscreen': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'User.Comments': 'true', 'User.Drawings': 'true', 'Edge.Cuts': 'true', 'F.Silkscreen': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}, 'Light Colors PCB Paste TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,F.Paste,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'Edge.Cuts': '#635547', 'F.Silkscreen': '#DDDDDD', 'B.Silkscreen': '#000000', 'F.Fab': '#808080', 'F.Mask': '#D0D0D0', 'User.Comments': '#00008A', 'User.Drawings': '#EFEFBA', 'F.Cu': '#EEEEEE', 'B.Cu': '#C6C6FF', 'In30.Cu': '#000000', 'Margin': '#830000', 'F.Paste': '#400000'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'F.Paste': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'B.Silkscreen': 'false', 'F.Fab': 'false', 'F.Mask': 'false', 'User.Comments': 'false', 'User.Drawings': 'false', 'F.Cu': 'false', 'B.Cu': 'false', 'In30.Cu': 'false', 'Margin': 'false', 'F.Paste': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}, 'Light Colors Placement BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Mask,B.Cu', 'frame': 'Margin', 'popups': 'Back Layer', 'layers': {'B.Courtyard': '#000000', 'Edge.Cuts': '#804000', 'User.Comments': '#0080FF', 'F.Fab': '#808080', 'F.Cu': '#EEEEEE', 'F.Paste': '#A8A8A8', 'F.Silkscreen': '#DDDD00', 'Margin': '#000000', 'F.Mask': '#C0C0C0', 'B.Cu': '#EEEEEE', 'B.Fab': '#222222', 'B.Silkscreen': '#CCCCAA', 'B.Paste': '#A8A8A8', 'B.Mask': '#C0C0C0'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Mask': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Courtyard': 'false', 'Edge.Cuts': 'false', 'User.Comments': 'false', 'F.Fab': 'false', 'F.Cu': 'false', 'F.Paste': 'false', 'F.Silkscreen': 'false', 'Margin': 'false', 'F.Mask': 'false', 'B.Cu': 'false', 'B.Fab': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Mask': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Mask': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Mask': 'true', 'B.Cu': 'true'}}, 'Light Colors Placement TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'B.Courtyard': '#000000', 'Edge.Cuts': '#804000', 'User.Comments': '#0080FF', 'F.Fab': '#222222', 'F.Cu': '#EEEEEE', 'F.Paste': '#A8A8A8', 'F.Silkscreen': '#CCCCAA', 'Margin': '#000000', 'F.Mask': '#C0C0C0', 'B.Cu': '#EEEEEE', 'B.Fab': '#808080', 'B.Silkscreen': '#000000', 'B.Paste': '#A8A8A8', 'B.Mask': '#C0C0C0'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'B.Courtyard': 'false', 'Edge.Cuts': 'false', 'User.Comments': 'false', 'F.Fab': 'false', 'F.Cu': 'false', 'F.Paste': 'false', 'F.Silkscreen': 'false', 'Margin': 'false', 'F.Mask': 'false', 'B.Cu': 'false', 'B.Fab': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Mask': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}}
+02-21 00:14:51 com_gitlab_dennevi_Board2Pdf.persistence 83:output_path=plots
+02-21 00:14:51 com_gitlab_dennevi_Board2Pdf.persistence 83:enabled_templates=['Black And White TOP', 'Black And White BOT']
+02-21 00:14:51 com_gitlab_dennevi_Board2Pdf.persistence 83:disabled_templates=['Colored BOT', 'Colored TOP', 'Light Colors PCB Fabrication TOP', 'Light Colors PCB Paste TOP', 'Light Colors Placement BOT', 'Light Colors Placement TOP']
+02-21 00:14:51 com_gitlab_dennevi_Board2Pdf.persistence 83:create_svg=False
+02-21 00:14:51 com_gitlab_dennevi_Board2Pdf.persistence 83:del_temp_files=True
+02-21 00:14:51 com_gitlab_dennevi_Board2Pdf.persistence 83:del_single_page_files=True
+02-21 00:14:51 com_gitlab_dennevi_Board2Pdf.persistence 83:assembly_file_extension=__Assembly
+02-21 00:14:51 com_gitlab_dennevi_Board2Pdf.persistence 83:page_info=Board2Pdf: ${template_name} - Page ${page_nr}/${total_pages}
+02-21 00:14:51 com_gitlab_dennevi_Board2Pdf.persistence 83:info_variable=4
+02-21 00:14:51 board2pdf 144:pymupdf not found, using pypdf
+02-21 00:18:47 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Top layer
+02-21 00:18:47 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Silk top
+02-21 00:18:47 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Mask top
+02-21 00:18:47 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Paste top
+02-21 00:18:48 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Inner layer 1
+02-21 00:18:48 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Inner layer 2
+02-21 00:18:48 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Bottom layer
+02-21 00:18:48 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Silk top
+02-21 00:18:48 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Mask bottom
+02-21 00:18:48 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Paste bottom
+02-21 00:18:48 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Edges
+02-21 00:18:48 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted V score cut
+02-21 00:18:48 com_github_bouni_kicad-jlcpcb-tools.fabrication 235:Finished generating Excellon files
+02-21 00:18:48 com_github_bouni_kicad-jlcpcb-tools.fabrication 252:Finished generating ZIP file Z:\Personal\Projects\2025\Framework Dongle Hider\FrameworkDongleHiderRetrofit\jlcpcb\production_files\GERBER-FrameworkDongleHiderRetrofit.zip
+02-21 00:18:49 com_github_bouni_kicad-jlcpcb-tools.fabrication 297:Finished generating CPL file Z:\Personal\Projects\2025\Framework Dongle Hider\FrameworkDongleHiderRetrofit\jlcpcb\production_files\CPL-FrameworkDongleHiderRetrofit.csv
+02-21 00:18:49 com_github_bouni_kicad-jlcpcb-tools.fabrication 332:Finished generating BOM file Z:\Personal\Projects\2025\Framework Dongle Hider\FrameworkDongleHiderRetrofit\jlcpcb\production_files\BOM-FrameworkDongleHiderRetrofit.csv
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Top layer
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Silk top
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Mask top
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Paste top
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Inner layer 1
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Inner layer 2
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Bottom layer
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Silk top
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Mask bottom
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Paste bottom
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted Edges
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 220:Successfully plotted V score cut
+02-21 00:18:55 com_github_bouni_kicad-jlcpcb-tools.fabrication 235:Finished generating Excellon files
+02-21 00:18:56 com_github_bouni_kicad-jlcpcb-tools.fabrication 252:Finished generating ZIP file Z:\Personal\Projects\2025\Framework Dongle Hider\FrameworkDongleHiderRetrofit\jlcpcb\production_files\GERBER-FrameworkDongleHiderRetrofit.zip
+02-21 00:18:57 com_github_bouni_kicad-jlcpcb-tools.fabrication 297:Finished generating CPL file Z:\Personal\Projects\2025\Framework Dongle Hider\FrameworkDongleHiderRetrofit\jlcpcb\production_files\CPL-FrameworkDongleHiderRetrofit.csv
+02-21 00:18:57 com_github_bouni_kicad-jlcpcb-tools.fabrication 332:Finished generating BOM file Z:\Personal\Projects\2025\Framework Dongle Hider\FrameworkDongleHiderRetrofit\jlcpcb\production_files\BOM-FrameworkDongleHiderRetrofit.csv

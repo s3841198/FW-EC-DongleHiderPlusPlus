@@ -1,0 +1,94 @@
+(footprint "USB_SolderPads"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "USB?"
+		(at 5.821801 -0.482597 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8ea33de6-69d2-43ed-a861-d637a51acdf2")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Value" "USB Dongle"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "8e33dd72-9f66-470c-8d0a-5a80d661f57b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Library:USB_SolderPads"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4f39bf6-16f7-41bf-8c91-d503a271916d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "18e2235d-79e6-4669-9c27-a6a5fb0f665a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2a783d7-bd0c-42c4-bf7e-c411f39152aa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(pad "1" smd rect
+		(at -3.5 0)
+		(size 1.5 1.5)
+		(layers "F.Cu" "F.Mask")
+		(uuid "c771cada-a651-4299-8214-6ae261f708f8")
+	)
+	(pad "2" smd rect
+		(at -1 0)
+		(size 1.5 1.5)
+		(layers "F.Cu" "F.Mask")
+		(uuid "034794cb-8031-4014-944d-eaeaf23c8ba0")
+	)
+	(pad "3" smd rect
+		(at 1 0)
+		(size 1.5 1.5)
+		(layers "F.Cu" "F.Mask")
+		(uuid "9940c020-849d-4f88-98ce-5b3830e7fa68")
+	)
+	(pad "4" smd rect
+		(at 3.5 0)
+		(size 1.5 1.5)
+		(layers "F.Cu" "F.Mask")
+		(uuid "9c700993-7d1c-48ea-b690-a898d9213241")
+	)
+)
