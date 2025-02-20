@@ -1,18 +1,16 @@
-# DongleHider+ Framework Laptop Expansion Card
+# DongleHider++ Framework Laptop Expansion Card
 
-Want to use a Logitech Unifying Dongle (or similar) without having a dongle permanently sticking out and giving up on a precious expansion card slot?  
-
-Now there's the `DongleHider+`!  
+This is a fork of LeoDJ's dongle hider plus, it is a slight refinement of the design fitting it into a pcb that is compatible with a stock Framework USB C expansion card.
 
 Simply (permanently) mount the dongle inside the card and still have an USB A port available!  
 
-There even is room and solder pads for 1-2 additional dongles. Your imagination (and physics) are the only limits!
+There even is room and solder pads for an additional dongle. Your imagination (and physics) are the only limits!
 
-See also the [thread on Mastodon about the build process etc](https://chaos.social/@LeoDJ/112040053271880119).
+See LeoDJ's [thread on Mastodon about the build process etc](https://chaos.social/@LeoDJ/112040053271880119).
 
 <p float="left" style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="doc/DongleHider+ assembled.jpeg" width="49%" />&nbsp;
-  <img src="doc/DongleHider+ installed.jpg" width="49%" />
+  <img src="DesignFiles/FrameworkDongleHiderRetrofitMain.png" width="49%" />&nbsp;
+  <img src="DesignFiles/FrameworkDongleHider++Installed.png" width="49%" />
 </p>
 
 
@@ -33,8 +31,7 @@ It's currently unclear what the behaviour would be under Linux or on Intel lapto
 
 ### Dongles
 
-This project was aimed first and foremost at Logitech Unifying dongles. But you can check if your dongle would fit by disassembling it and checking its size against the CAD model (linked below).  
-Keep in mind that there is more room under / above the PCB too. (I just made the cutout so a Unifying dongle PCB would fit neat-ish)
+Please note that there may be mechanical differences between the original DongleHiderPlus and this pcb, I would reccomend 3D printing the pcb outline and checking the fit of your dongle.
 
 The Unifying dongles can be disassembled pretty easily:
 |||
@@ -44,22 +41,9 @@ The Unifying dongles can be disassembled pretty easily:
 
 
 ## PCB
-- [View the latest schematic and board view](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FLeoDJ%2FFW-EC-DongleHiderPlus%2Ftree%2Fmain%2FDongleHiderPlus_PCB) thanks to KiCanvas.
-- [Interactive HTML BOM](https://leodj.github.io/FW-EC-DongleHiderPlus/DongleHiderPlus_PCB/DongleHiderPlus_PCB.ibom.html)
-- I've ordered the PCB and assembled it myself, but it should be able to be mostly assembled by PCBA services (like JLCPCB) too. The Gerber/BOM/CPL files are provided in the [PCB/jlcpcb/production_files/](DongleHiderPlus_PCB/jlcpcb/production_files/) folder.
-
-<p float="left" style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="doc/PCB 3D.png" width="49%" />&nbsp;
-  <img src="doc/PCB assembled.jpeg" width="49%" />
-</p>
-
+- [View the latest schematic and board view]([https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FLeoDJ%2FFW-EC-DongleHiderPlus%2Ftree%2Fmain%2FDongleHiderPlus_PCB](https://kicanvas.org/?github=https://github.com/s3841198/FW-EC-DongleHiderPlusPlus/blob/main/FrameworkDongleHiderRetrofit.kicad_pcb)) thanks to KiCanvas.
+- I've ordered the PCB and assembled it myself, but it should be able to be mostly assembled by PCBA services (like JLCPCB) too. The Gerber/BOM/CPL files are provided in the [PCB/jlcpcb/production_files/](FW-EC-DongleHiderPlusPlus/tree/main/jlcpcb/production_files) folder.
 
 ## Mechanical Design
 
-- The [CAD model](https://cad.onshape.com/documents/ed6483270486e65268e8fd84/w/d29ba2284b9bcf206122f777/e/2459b9ec86bce6d6c9526a6b?renderMode=0&uiState=65e6561b74c806687c72f766) for the shell etc. was done in OnShape.
-- The PCB is fastened to the case using 3 M2x3 self-tapping screws
-- Simply print the .step file from the [Mechanical/](Mechanical/DongleHiderPlus_Shell.step) folder. I printed it lying down with 0.1mm layer height and supports (for the lip on the bottom). But standing vertically (on the USB-C hole side) should work too.
-
-<p float="left" style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="doc/Shell CAD.png" width="49%" />
-</p>
+- The pcb is designed to be a drop in replacement for a stock Framework USB C expansion card, it uses the original screws and doesn't require any modifications to be made to the stock housing.
